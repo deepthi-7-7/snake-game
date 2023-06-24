@@ -62,6 +62,3 @@ Use the arrow keys to control the snake's movement. The objective is to eat as m
 
 - The Snake Game was developed using the Pygame library, which provides an easy-to-use framework for building 2D games in Python.
 
----
-
-*Note: This project was developed as a personal project to demonstrate proficiency in Python and game development using the Pygame library.*
