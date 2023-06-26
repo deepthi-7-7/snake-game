@@ -58,8 +58,10 @@ game play
 
 
 
-Uploading Snake Game 2023-06-26 23-19-47.mp4…
 
+
+
+https://github.com/deepthi-7-7/snake-game.github.io/assets/118127410/c7301d0a-2080-4155-bee4-4ffaf0e505ea
 
 
 
