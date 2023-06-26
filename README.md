@@ -53,7 +53,7 @@ python snake_game.py
 Use the arrow keys to control the snake's movement. The objective is to eat as many apples as possible without colliding with the boundaries or the snake's own body. The game ends when the snake collides and restarts automatically.
 
 ## Game looks like
-
+game play
 
 
 
