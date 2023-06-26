@@ -59,7 +59,10 @@ game play
 
 
 
-https://github.com/deepthi-7-7/snake-game.github.io/assets/118127410/a58ba1d4-fb9c-4ce9-a8df-b12be46b5384
+
+
+
+https://github.com/deepthi-7-7/snake-game.github.io/assets/118127410/6df74d3e-b2b4-4546-931b-c8deed7a213c
 
 
 
