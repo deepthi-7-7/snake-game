@@ -55,7 +55,11 @@ Use the arrow keys to control the snake's movement. The objective is to eat as m
 ## Game looks like
 
 
-https://github.com/deepthi-7-7/snake-game.github.io/assets/118127410/ace49b63-0dd1-4519-80e9-5f0d7f2fa6d7
+
+
+
+Uploading Snake Game 2023-06-26 23-19-47.mp4…
+
 
 
 
